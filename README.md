@@ -79,29 +79,14 @@ const sergiu = {
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <div align="center">
-  
-![Sergiu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sergiu2001&show_icons=true&theme=dracula&hide_border=true&border_radius=10&include_all_commits=true&count_private=true)
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiu2001&layout=compact&theme=dracula&hide_border=true&border_radius=10&langs_count=6)
 
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sergiu2001&theme=dracula" alt="GitHub Profile Summary" />
 
-<div align="center">
-  
-![GitHub Streak](https://streak-stats.demolab.com/?user=sergiu2001&theme=dracula&hide_border=true&border_radius=10)
-
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  
-![Trophies](https://github-profile-trophy.vercel.app/?username=sergiu2001&theme=dracula&no-frame=true&no-bg=false&margin-w=4&row=1&column=7)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sergiu2001&theme=dracula" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sergiu2001&theme=dracula" alt="Top Languages" />
 
 </div>
 
