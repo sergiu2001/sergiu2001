@@ -83,13 +83,12 @@ const sergiu = {
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sergiu2001&theme=dracula" alt="GitHub Profile Summary" />
+<img src="https://raw.githubusercontent.com/sergiu2001/sergiu2001/main/profile-summary-card-output/dracula/0-profile-details.svg" alt="GitHub Profile Summary" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sergiu2001&theme=dracula" alt="GitHub Stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sergiu2001&theme=dracula" alt="Top Languages" />
+<img src="https://raw.githubusercontent.com/sergiu2001/sergiu2001/main/profile-summary-card-output/dracula/3-stats.svg" alt="GitHub Stats" />
+<img src="https://raw.githubusercontent.com/sergiu2001/sergiu2001/main/profile-summary-card-output/dracula/2-most-commit-language.svg" alt="Top Languages" />
 
 </div>
-
 ---
 
 ### 🐍 Contribution Graph
