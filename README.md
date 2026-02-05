@@ -82,12 +82,17 @@ const sergiu = {
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sergiu2001&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&border_radius=10" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sergiu2001&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&border_radius=10" height="160" alt="languages graph" />
+  
+![Sergiu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sergiu2001&show_icons=true&theme=dracula&hide_border=true&border_radius=10&include_all_commits=true&count_private=true)
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiu2001&layout=compact&theme=dracula&hide_border=true&border_radius=10&langs_count=6)
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sergiu2001&theme=dracula&hide_border=true&border_radius=10" height="160" alt="streak stats" />
+  
+![GitHub Streak](https://streak-stats.demolab.com/?user=sergiu2001&theme=dracula&hide_border=true&border_radius=10)
+
 </div>
 
 ---
@@ -95,7 +100,9 @@ const sergiu = {
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sergiu2001&theme=dracula&no-frame=true&no-bg=false&margin-w=4&row=1" alt="trophies" />
+  
+![Trophies](https://github-profile-trophy.vercel.app/?username=sergiu2001&theme=dracula&no-frame=true&no-bg=false&margin-w=4&row=1&column=7)
+
 </div>
 
 ---
